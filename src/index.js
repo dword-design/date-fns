@@ -45,7 +45,7 @@ export {
 } from 'date-fns'
 
 import de from 'date-fns/locale/de'
-import en from 'date-fns/locale/en'
+import en from 'date-fns/locale/en-US'
 
 const locales = {
   de: {
