@@ -31,6 +31,7 @@ export {
   isSameMonth,
   getISOWeek,
   subDays,
+  subHours,
   getYear,
   getMonth,
   getDate,
