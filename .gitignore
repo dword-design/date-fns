@@ -1,5 +1,11 @@
 .DS_Store
-node_modules
-dist
-.vscode
-.editorconfig
+/.cz.json
+/.editorconfig
+/.env.json
+/.eslintrc.json
+/.nyc_output
+/.releaserc.json
+/.vscode
+/coverage
+/dist
+/node_modules
