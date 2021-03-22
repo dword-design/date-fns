@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/dword-design/date-fns/compare/v1.0.5...v1.0.6) (2021-03-22)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#10](https://github.com/dword-design/date-fns/issues/10)) ([43fe96a](https://github.com/dword-design/date-fns/commit/43fe96a600d578bcf5cefd36a94cdf8132ea59ea))
+* lock file maintenance ([#11](https://github.com/dword-design/date-fns/issues/11)) ([f88770c](https://github.com/dword-design/date-fns/commit/f88770c80022ff53ea05d8fade986902e6bc4780))
+
 ## [1.0.5](https://github.com/dword-design/date-fns/compare/v1.0.4...v1.0.5) (2021-02-17)
 
 
