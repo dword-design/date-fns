@@ -46,6 +46,7 @@ export {
   areIntervalsOverlapping,
   isWithinInterval,
 } from 'date-fns'
+
 const locales = {
   de: {
     ...de,
@@ -61,6 +62,7 @@ const locales = {
   },
   en,
 }
+
 const locale = locales.de
 
 export const format = (date, formatStr, options) =>
@@ -85,9 +87,11 @@ export const isLastWeekOfMonth = date =>
 
 export const monthCalendarRange = month => {
   const firstOfMonth = startOfMonth(month)
+
   const start = startOfDay(
     firstOfMonth.getDay() === 1 ? firstOfMonth : startOfWeek(firstOfMonth)
   )
+
   return {
     end: endOfDay(addDays(start, 34)),
     start,
