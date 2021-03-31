@@ -64,7 +64,7 @@ $ yarn add @dword-design/date-fns
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/date-fns/issues) or [pull request](https://github.com/dword-design/date-fns/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/date-fns/issues) or a [pull request](https://github.com/dword-design/date-fns/pulls)! ⚙️
 
 ## Support
 
