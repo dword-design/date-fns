@@ -20,7 +20,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "date-fns": "^2.0.0-alpha.27"
+    "date-fns": "^2.20.1"
   },
   "devDependencies": {
     "@dword-design/base": "^7.0.0"
