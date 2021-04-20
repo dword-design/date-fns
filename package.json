@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/date-fns",
   "version": "1.0.8",
-  "description": "",
+  "description": null,
   "repository": "dword-design/date-fns",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -27,5 +27,7 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "homepage": null,
+  "keywords": []
 }
