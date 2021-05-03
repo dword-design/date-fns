@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/date-fns/compare/v1.0.11...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#24](https://github.com/dword-design/date-fns/issues/24)) ([92a1eaf](https://github.com/dword-design/date-fns/commit/92a1eaf56d6360e3f475e5d9da28d0ad1a8f5a88))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.11](https://github.com/dword-design/date-fns/compare/v1.0.10...v1.0.11) (2021-04-28)
 
 
