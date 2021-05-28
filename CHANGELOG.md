@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/date-fns/compare/v2.0.0...v2.0.1) (2021-05-28)
+
+
+### Bug Fixes
+
+* update config files ([10eaf8f](https://github.com/dword-design/date-fns/commit/10eaf8f37331428c9f138c94fe2db68eab0150a9))
+
 # [2.0.0](https://github.com/dword-design/date-fns/compare/v1.0.11...v2.0.0) (2021-05-03)
 
 
