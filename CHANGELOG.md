@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/dword-design/date-fns/compare/v2.0.7...v2.0.8) (2023-01-10)
+
+
+### Bug Fixes
+
+* fix directory imports ([d30aff4](https://github.com/dword-design/date-fns/commit/d30aff4f24361b1018a8c25ce80fd74de5844c68))
+
 ## [2.0.7](https://github.com/dword-design/date-fns/compare/v2.0.6...v2.0.7) (2023-01-07)
 
 
