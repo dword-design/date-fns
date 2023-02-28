@@ -12,8 +12,8 @@ import {
   startOfMonth,
   startOfWeek as dateFnsStartOfWeek,
 } from 'date-fns'
-import de from 'date-fns/locale/de/index.js'
-import en from 'date-fns/locale/en-US/index.js'
+import de from 'date-fns/locale/de/index'
+import en from 'date-fns/locale/en-US/index'
 
 export {
   startOfDay,
