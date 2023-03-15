@@ -12,8 +12,8 @@ import {
   startOfMonth,
   startOfWeek as dateFnsStartOfWeek,
 } from 'date-fns'
-import de from 'date-fns/locale/de/index'
-import en from 'date-fns/locale/en-US/index'
+import de from 'date-fns/locale/de/index.js'
+import en from 'date-fns/locale/en-US/index.js'
 
 export {
   startOfDay,
@@ -90,7 +90,7 @@ export const monthCalendarRange = month => {
   const firstOfMonth = startOfMonth(month)
 
   const start = startOfDay(
-    firstOfMonth.getDay() === 1 ? firstOfMonth : startOfWeek(firstOfMonth)
+    firstOfMonth.getDay() === 1 ? firstOfMonth : startOfWeek(firstOfMonth),
   )
 
   return {
