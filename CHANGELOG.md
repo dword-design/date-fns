@@ -1,3 +1,10 @@
+## [2.0.11](https://github.com/dword-design/date-fns/compare/v2.0.10...v2.0.11) (2023-04-30)
+
+
+### Bug Fixes
+
+* update dependency date-fns to v2.30.0 ([fb7177f](https://github.com/dword-design/date-fns/commit/fb7177f3f8b4f51cefff54d6eae9c6d8d30dfb22))
+
 ## [2.0.10](https://github.com/dword-design/date-fns/compare/v2.0.9...v2.0.10) (2023-02-28)
 
 
