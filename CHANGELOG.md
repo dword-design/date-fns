@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/date-fns/compare/v2.0.11...v3.0.0) (2025-08-15)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#78](https://github.com/dword-design/date-fns/issues/78)) ([0f1c809](https://github.com/dword-design/date-fns/commit/0f1c8093f0c222515b6c7def49bcc60bb52b41e2))
+
+
+### BREAKING CHANGES
+
+* node.js >= 20
+
 ## [2.0.11](https://github.com/dword-design/date-fns/compare/v2.0.10...v2.0.11) (2023-04-30)
 
 
