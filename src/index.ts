@@ -69,24 +69,26 @@ const locale = locales.de;
 export const format = <TOptions>(
   date: Date | number,
   formatStr: string,
-  options: TOptions,
+  options?: TOptions,
 ) => dateFnsFormat(date, formatStr, { locale, ...options });
 
 export const formatRelative = <TOptions>(
   date: Date | number,
   baseDate: Date | number,
-  options: TOptions,
+  options?: TOptions,
 ) => dateFnsFormatRelative(date, baseDate, { locale, ...options });
 
-export const startOfWeek = <TOptions>(date: Date | number, options: TOptions) =>
-  dateFnsStartOfWeek(date, { locale, ...options });
+export const startOfWeek = <TOptions>(
+  date: Date | number,
+  options?: TOptions,
+) => dateFnsStartOfWeek(date, { locale, ...options });
 
 export const getWeekOfMonth = (date: Date | number) =>
   Math.floor((getDate(date) - 1) / 7);
 
 export const eachWeekOfInterval = <TOptions>(
   interval: Interval,
-  options: TOptions,
+  options?: TOptions,
 ) => dateFnsEachWeekOfInterval(interval, { locale, ...options });
 
 export const isSameOrAfter = (
