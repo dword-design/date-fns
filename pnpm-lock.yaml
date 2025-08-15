@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       date-fns:
-        specifier: ^2
+        specifier: ^2.0.0-alpha.27
         version: 2.30.0
     devDependencies:
       '@dword-design/base':
