@@ -29,7 +29,7 @@
     "verify": "base verify"
   },
   "dependencies": {
-    "date-fns": "^2.0.0-alpha.27"
+    "date-fns": "^4.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^15.3.6",
